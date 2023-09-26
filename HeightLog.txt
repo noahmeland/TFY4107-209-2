@@ -1,0 +1,8 @@
+Height 0: 300.0
+Height 1: 257.0
+Height 2: 171.0
+Height 3: 152.0
+Height 4: 213.0
+Height 5: 214.0
+Height 6: 144.0
+Height 7: 136.0
